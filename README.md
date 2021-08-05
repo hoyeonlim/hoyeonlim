@@ -11,9 +11,7 @@
 
  
 
-! [Photo](https://imtopic.com/media/upload/images/202004/7edffaebacda1c3dffae0a47347c5aa3.jpeg"cat")
-
-
+![](md-images/7edffaebacda1c3dffae0a47347c5aa3.jpeg)
 
 
 
