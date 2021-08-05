@@ -11,7 +11,7 @@
 
  
 
-![](md-images/7edffaebacda1c3dffae0a47347c5aa3.jpeg)
+<img src="md-images/7edffaebacda1c3dffae0a47347c5aa3.jpeg" alt="photo" style="zoom:50%;" />
 
 
 
